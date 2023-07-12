@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mikerhodeshub/static/css/main.469af8d3.css",
+    "main.js": "/mikerhodeshub/static/js/main.7da3a6fd.js",
+    "static/js/787.c04544ac.chunk.js": "/mikerhodeshub/static/js/787.c04544ac.chunk.js",
+    "static/media/proj5.jpg": "/mikerhodeshub/static/media/proj5.0648813998893b8c53d0.jpg",
+    "static/media/proj2.jpg": "/mikerhodeshub/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "static/media/proj1.jpg": "/mikerhodeshub/static/media/proj1.3fb0bdc7583872ea12b3.jpg",
+    "index.html": "/mikerhodeshub/index.html",
+    "main.469af8d3.css.map": "/mikerhodeshub/static/css/main.469af8d3.css.map",
+    "main.7da3a6fd.js.map": "/mikerhodeshub/static/js/main.7da3a6fd.js.map",
+    "787.c04544ac.chunk.js.map": "/mikerhodeshub/static/js/787.c04544ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469af8d3.css",
+    "static/js/main.7da3a6fd.js"
+  ]
+}
